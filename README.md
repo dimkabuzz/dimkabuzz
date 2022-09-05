@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Dumitru Trifan
+- 👀 I’m interested in Frontend Developer jobs
+- 🌱 I’m currently learning Next.js
+- 📫 You can reach me @ https://www.linkedin.com/in/trifan-dumitru/
